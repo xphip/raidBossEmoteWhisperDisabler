@@ -1,0 +1,12 @@
+## Interface: 11075
+## Version: 1.0.0
+## DefaultState: Enabled
+## Title: RaidBossEmoteWhisperDisabler
+## Notes: This addon control the RaidBossEmote/Whisper event
+## Author: xphip
+## DefaultState: enabled
+## IconTexture: Interface/AddOns/RaidBossEmoteWhisperDisabler/Media/icon.tga
+## SavedVariables: RaidBossEmoteWhisperDisablerDB
+
+Core\locale.lua
+Core\core.lua
