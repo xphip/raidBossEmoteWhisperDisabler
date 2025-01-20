@@ -17,3 +17,12 @@ L["ptBR"] = {
     StateEnabled = "ativado",
     StateDisabled = "desativado",
 }
+
+L["ruRU"] = {
+    LoadedMsg = " загружено успешно!",
+    Description = "Этот аддон блокирует эмоции/шепот рейдовых боссов.",
+    enableCheckboxText = "Включить блокировку эмоций.",
+    debugModeCheckboxText = "Включить режим отладки.",
+    StateEnabled = "включено",
+    StateDisabled = "выключено",
+}
