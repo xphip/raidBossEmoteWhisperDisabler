@@ -1,10 +1,12 @@
-## Interface: 11075
-## Version: 1.0.0
+## Interface: 110007
+## Version: @project-version@
 ## DefaultState: Enabled
 ## Title: RaidBossEmoteWhisperDisabler
 ## Notes: This addon control the RaidBossEmote/Whisper event
 ## Author: xphip
 ## DefaultState: enabled
+## X-Flavor: Mainline
+## X-Curse-Project-ID: 1182112
 ## IconTexture: Interface/AddOns/RaidBossEmoteWhisperDisabler/Media/icon.tga
 ## SavedVariables: RaidBossEmoteWhisperDisablerDB
 
